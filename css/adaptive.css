@@ -1,0 +1,429 @@
+/* телефон */
+@media only screen and (min-device-width: 350px) and (max-device-width: 700px){ 
+
+.screen{
+width: 100vw;
+height: 750vw;
+overflow: hidden;
+}
+
+.start{
+position: absolute;
+width: 76vw;
+height: auto;
+top: 1vh;
+left: 3.7vw;
+}
+
+.friend{
+position: absolute;
+width: 68vw;
+height: auto;
+top: -31vh;
+left: 8vw;
+}
+
+.star1{
+position: absolute;
+width: 8vw;
+height: auto;
+top: -59vh;
+left: -2.2vw;
+}
+
+.star2{
+position: absolute;
+width: 23vw;
+height: auto;
+top: -52vh;
+left: -1vw;
+}
+
+.ticket{
+position: absolute;
+width: 73vw;
+height: auto;
+top: -46vh;
+left: 3vw; 
+}
+
+.forget{
+position: absolute;
+width: 35vw;
+height: auto;
+top: -86vh;
+left: -4vw; 
+}   
+
+.call{
+position: absolute;
+width: 35vw;
+height: auto;
+top: -110vh;
+left: 3vw; 
+}   
+
+.phone{
+position: absolute;
+width: 85vw;
+height: auto;
+top: -100vh;
+left: -3.6vw; 
+rotate: -20deg;
+}  
+
+.star3{
+position: absolute;
+width: 24vw;
+height: auto;
+top: -140vh;
+left: -3.6vw; 
+}  
+
+.star4{
+position: absolute;
+width: 24vw;
+height: auto;
+top: -150vh;
+left: 2vw; 
+}  
+
+.bubble{
+position: absolute;
+width: 14vw;
+height: auto;
+top: -205vh;
+left: -3vw; 
+}  
+
+.guitar{
+position: absolute;
+width: 94vw;
+height: auto;
+top: -195vh;
+left: -4vw; 
+rotate: 18deg;
+}  
+
+.play{
+position: absolute;
+width: 29vw;
+height: auto;
+top: -270vh;
+left: 0vw; 
+}  
+
+.star5{
+position: absolute;
+width: 29vw;
+height: auto;
+top: -282vh;
+left: 0vw; 
+}  
+
+.record{
+position: absolute;
+width: 59vw;
+height: auto;
+top: -346vh;
+left: 13vw; 
+}  
+
+.cassete{
+position: absolute;
+width: 93vw;
+height: auto;
+top: -356vh;
+left: -3vw; 
+}  
+
+.choose{
+position: absolute;
+width: 43vw;
+height: auto;
+top: -430vh;
+left: -3vw; 
+}  
+
+.calendar{
+position: absolute;
+width: 93vw;
+height: auto;
+top: -449vh;
+left: -13vw; 
+}  
+
+.star6{
+position: absolute;
+width: 29vw;
+height: auto;
+top: -530vh;
+left: 1vw; 
+}  
+
+.jazz{
+position: absolute;
+width: 69vw;
+height: auto;
+top: -529vh;
+left: -1vw; 
+}  
+
+.pop{
+position: absolute;
+width: 94vw;
+height: auto;
+top: -670vh;
+left: -2vw; 
+}  
+
+.lets{
+position: absolute;
+width: 40vw;
+height: auto;
+top: -665vh;
+left: 24vw; 
+}  
+
+.star7{
+position: absolute;
+width: 28vw;
+height: auto;
+top: -670vh;
+left: 2vw; 
+}  
+
+.end{
+position: absolute;
+width: 105vw;
+height: auto;
+top: -778vh;
+left: -2vw; 
+}  
+
+
+.new{
+    position: absolute;
+    width: 16vw;
+    height: auto;
+    margin-top: 76vh;
+    margin-left: 40vw; 
+    animation: new 2.8s infinite ease-in-out;
+    } 
+}
+/* планшет */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1000px){ 
+
+.screen{
+width: 100vw;
+height: 750vw;
+overflow: hidden;
+}
+
+.start{
+position: absolute;
+width: 76vw;
+height: auto;
+top: -1vh;
+left: 3.7vw;
+}
+
+.friend{
+position: absolute;
+width: 68vw;
+height: auto;
+top: -30vh;
+left: 8vw;
+}
+
+.star1{
+position: absolute;
+width: 8vw;
+height: auto;
+top: -59vh;
+left: -2.2vw;
+}
+
+.star2{
+position: absolute;
+width: 23vw;
+height: auto;
+top: -52vh;
+left: -1vw;
+}
+
+.ticket{
+position: absolute;
+width: 73vw;
+height: auto;
+top: -46vh;
+left: 3vw; 
+}
+
+.forget{
+position: absolute;
+width: 35vw;
+height: auto;
+top: -76vh;
+left: -4vw; 
+}   
+
+.call{
+position: absolute;
+width: 35vw;
+height: auto;
+top: -97vh;
+left: 3vw; 
+}   
+
+.phone{
+position: absolute;
+width: 85vw;
+height: auto;
+top: -87vh;
+left: -3.6vw; 
+rotate: -20deg;
+}  
+
+.star3{
+position: absolute;
+width: 24vw;
+height: auto;
+top: -120vh;
+left: -3.6vw; 
+}  
+
+.star4{
+position: absolute;
+width: 24vw;
+height: auto;
+top: -116vh;
+left: 2vw; 
+}  
+
+.bubble{
+position: absolute;
+width: 14vw;
+height: auto;
+top: -155vh;
+left: -3vw; 
+}  
+
+.guitar{
+position: absolute;
+width: 99vw;
+height: auto;
+top: -155vh;
+left: -4vw; 
+rotate: 18deg;
+}  
+
+.play{
+position: absolute;
+width: 32vw;
+height: auto;
+top: -213vh;
+left: 3vw; 
+}  
+
+.star5{
+position: absolute;
+width: 29vw;
+height: auto;
+top: -208vh;
+left: 0vw; 
+}  
+
+.record{
+position: absolute;
+width: 59vw;
+height: auto;
+top: -263vh;
+left: 13vw; 
+}  
+
+.cassete{
+position: absolute;
+width: 93vw;
+height: auto;
+top: -273vh;
+left: -3vw; 
+}  
+
+.choose{
+position: absolute;
+width: 49vw;
+height: auto;
+top: -330vh;
+left: 6vw; 
+}  
+
+.calendar{
+position: absolute;
+width: 93vw;
+height: auto;
+top: -334vh;
+left: -16vw; 
+}  
+
+.star6{
+position: absolute;
+width: 29vw;
+height: auto;
+top: -370vh;
+left: 1vw; 
+}  
+
+.jazz{
+position: absolute;
+width: 69vw;
+height: auto;
+top: -380vh;
+left: -1vw; 
+}  
+
+.pop{
+position: absolute;
+width: 94vw;
+height: auto;
+top: -500vh;
+left: -2vw; 
+}  
+
+.lets{
+position: absolute;
+width: 50vw;
+height: auto;
+top: -526vh;
+left: -4vw; 
+}  
+
+.star7{
+position: absolute;
+width: 28vw;
+height: auto;
+top: -500vh;
+left: 2vw; 
+}  
+
+.end{
+position: absolute;
+width: 105vw;
+height: auto;
+top: -578vh;
+left: -2vw; 
+}  
+
+.new{
+    position: absolute;
+    width: 16vw;
+    height: auto;
+    margin-top: 98vh;
+    margin-left: 40vw; 
+    animation: new 2.8s infinite ease-in-out;
+    } 
+
+
+
+
+}
